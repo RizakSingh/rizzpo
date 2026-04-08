@@ -9,7 +9,7 @@ export default function App() {
       <Text className="text-xl font-bold text-blue-500">
         Welcome to Nativewind!
       </Text>
-      <Link href="/(tabs)/Insigths">
+      <Link href="/(tabs)/insights">
         <Text className="text-blue-500 underline">View Subscription</Text>
       </Link>
     </SafeAreaView>
